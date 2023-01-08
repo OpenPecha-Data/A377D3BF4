@@ -1,0 +1,25 @@
+id: A377D3BF4
+title: Spontaneous Fulfilment of Wishes
+type: translation
+pechas:
+- IBAD0F05F
+- I38B09B63
+- IF71496A5
+- I3BD57F47
+source_metadata:
+  languages:
+  - en
+  - es
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:11:31.722827
+  last_modified_at: 2023-01-04 12:11:31.722832
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IBAD0F05F/6534: 8A26
+  I38B09B63/981F: 8A26
+  IF71496A5/6349: 8A26
+  I3BD57F47/B2CF: 8A26
